@@ -26,3 +26,6 @@ print(df)
 group = df.groupby('City')[['Salary']].mean()
 print("\nСредняя зарплата по городам:")
 print(group)
+
+average_salary = df['Salary'].mean()
+print("\nСредняя зарплата в датафрейме:", round(average_salary,2))

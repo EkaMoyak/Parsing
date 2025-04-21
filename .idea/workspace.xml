@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3129a20-08fc-4899-add9-8600888c96a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DS_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World-happiness-report-2024.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hh.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Parsing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divanpars/divanpars/spiders/zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/zero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divanpars/divanpars/spiders/zero_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/zero_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
