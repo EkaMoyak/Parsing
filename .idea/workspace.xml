@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3129a20-08fc-4899-add9-8600888c96a4" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/p1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/p2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/DS_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_1.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/AZ03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AZ03_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AZ03_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AZ03_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,6 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.AZ03.executor": "Run",
+    "Python.AZ03_1.executor": "Run",
+    "Python.AZ03_2.executor": "Run",
+    "Python.AZ03_hw.executor": "Run",
     "Python.DS_1.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p2.executor": "Run",
@@ -43,7 +61,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Course/Parsing"
+    "last_opened_file_path": "D:/Course/Parsing",
+    "settings.editor.selected.configurable": "configurable.group.project"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,5 +90,8 @@
       <updated>1745059712982</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
 </project>
