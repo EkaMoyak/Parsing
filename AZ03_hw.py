@@ -201,9 +201,7 @@ def analyze_prices(csv_file):
     plt.tight_layout()
     plt.show()
 
-
-
-
+ 
 # Выполнение всех задач
 if __name__ == "__main__":
     print("Задача 1: Гистограмма нормального распределения")
